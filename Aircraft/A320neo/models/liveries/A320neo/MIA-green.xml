@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Merlion Green</name>
+				<neo-texture>Liveries/A320neo-green.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
